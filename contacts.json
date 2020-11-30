@@ -1,0 +1,37 @@
+[
+   {
+      "name": "jaanu",
+      "phone": "8765432134",
+      "email": "jaanuram96@gmail.com",
+      
+      "age": "20"
+   },
+   {
+      "name": "vidhya",
+      "phone": "8776432134",
+      "email": "vidhyavox@gmail.com",
+     
+      "age": "20"
+   },
+   {
+      "name": "mariya",
+      "phone": "7687546633",
+      "email": "mariyajoseph@gmail.com",
+      
+      "age": "20"
+   },
+   {
+      "name": "anu",
+      "phone": "9876432134",
+      "email": "anumandu@gmail.com",
+      
+      "age": "20"
+   },
+   {
+      "name": "samyuktha",
+      "phone": "6565473724",
+      "email": "samyukthacool@gmail.com",
+     
+      "age": "20"
+   }
+]
